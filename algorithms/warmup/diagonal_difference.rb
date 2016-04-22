@@ -26,5 +26,3 @@ for a_i in (0..n-1)
 end
 
 puts get_diagonal_difference.(a)
-
-
