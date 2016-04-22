@@ -5,3 +5,4 @@ task :test do
 end
 
 Rake::Task['test'].invoke
+task default: :test
